@@ -49,7 +49,7 @@ A modern, responsive, and clean Login-SignUp Screen UI built for Android applica
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Alveeza-Ilyas/Mobile_App_Login_SignUp_Page
+   git clone https://github.com/Alveeza-Ilyas/Mobile-App-Login-SignUp-Page
 2. Open **Android Studio**.
 3. Select **Open an Existing Project** and navigate to the cloned directory.
 4. Sync the Gradle files and press **Run** `(Shift + F10)` on an emulator or physical device.
