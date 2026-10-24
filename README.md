@@ -43,8 +43,6 @@ drawable/
 
 ## Preview
 
-| Login Screen UI |
-| :---: |
 <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/88e864a4-df6d-4d2e-b91f-269758a71023" />
 <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/b7998512-0546-48b6-99b0-c9761e93d7ea" />
 
@@ -75,7 +73,7 @@ drawable/
  
 1. Clone the repository:
 ```bash
-   git clone https://github.com/Alveeza-Ilyas/Mobile-App-Login-SignUp-Page.git
+   git clone https://github.com/Alveeza-Ilyas/Mobile-App-Login-SignUp-Page
 ```
 2. Open **Android Studio**.
 3. Select **Open an Existing Project** and choose the cloned folder.
